@@ -10,7 +10,7 @@ const random = Math.floor(Math.random() * 10) + 1; // Generates a random integer
 // For the 'mod' test case
 const num3 = 10;
 const num4 = 6;
-const mod = num3 % num4; // 4, assuming you want the remainder to be 4
+const mod = num3 % num4; // 4, assuming you want the remainder to be 4.
 
 // For the 'max' test case
 const max = Math.max(1, 3, 20); // 20
